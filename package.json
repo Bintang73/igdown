@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "node-fetch": "^2.7.0",
+    "readline-sync": "^1.4.10"
+  },
+  "name": "igdown",
+  "version": "1.0.0",
+  "description": "tools ig downloader",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bintang",
+  "license": "ISC"
+}
